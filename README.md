@@ -40,13 +40,13 @@ understanding. It contains **120 high-fidelity scenes**, covers more than
 
 The first release contains five RGB scenes and five semantic scenes.
 
-### Scene Graph
+## Scene Graph
 
-#### meetingroom
+### meetingroom
 
 ![Hierarchical 3D scene graph result for meetingroom](assets/readme/scenegraph-result-meetingroom.gif)
 
-#### apartment
+### apartment
 
 ![Hierarchical 3D scene graph result for apartment](assets/readme/scenegraph-result-apartment.gif)
 
